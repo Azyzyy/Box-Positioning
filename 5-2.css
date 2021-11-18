@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 50px 55px;
+}
+.box    {
+    width: 88vw;
+    height: 100px;
+    background-color: palegreen;
+    border: 2px solid;
+}
+.boxa   {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+}
+.boxb   {
+    width: 900px;
+    height: 200px;
+    margin-top: 50px;
+}
+.box2   {
+    background-color: yellow;
+    float: left;
+    border: 2px solid;
+}
+.box3   {
+    background-color: violet;
+    float: right;
+    border: 2px solid;
+}
+.box4   {
+    background-color: turquoise;
+    float: right;
+    border: 2px solid;
+}
+.kotak1 {
+    width: 88vw;
+    height:500px;
+}

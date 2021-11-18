@@ -1,0 +1,75 @@
+*   {
+    box-sizing: border-box;
+}
+body    {
+    margin: 5px 55px;
+}
+.kotak1 {
+    width: 90vw;
+    height: auto;
+}
+.kotak2 {
+    width: 90vw;
+    height: auto;
+}
+.kotak3 {
+    width: 90vw;
+    height: auto;
+}
+.boxa   {
+    width: 235px;
+    height: 75px;
+    margin-top: 25px;
+}
+.boxb   {
+    width: 910px;
+    height: 75px;
+    margin-top: 25px;
+}
+.boxc   {
+    width: 235px;
+    height: 500px;
+    margin-top: 25px;
+}
+.boxd   {
+    width: 670px;
+    height: 500px;
+    margin-top: 25px;
+}
+.boxe   {
+    width: 100%;
+    height: 75px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.box1   {
+    background-color: yellow;
+    float: left;
+    border: 2px solid;
+}
+.box2   {
+    background-color: orangered;
+    float: right;
+    border: 2px solid;
+}
+.box3   {
+    background-color: rgb(47, 255, 75);
+    float: left;
+    border: 2px solid;
+}
+.box4   {
+    background-color: grey;
+    float: right;
+    border: 2px solid;
+    margin-right: 5px;
+}
+.box5   {
+    background-color: blueviolet;
+    float: right;
+    border: 2px solid;
+}
+.box6   {
+    background-color: blue;
+    float: left;
+    border: 2px solid;
+}

@@ -1,0 +1,29 @@
+.box {
+    width: 270px;
+    height: 500px;
+    border: 2px solid blue;
+    padding: 30px;
+    padding-left: 30px;
+    margin: 30px;
+    box-sizing: border-box;
+} 
+.box-1 {
+    border: 2px solid ;
+    background-color: khaki;
+    float: left;
+}
+.box-2 {
+    border: 2px solid ;
+    background-color: cyan;
+    float: right;
+}
+.box-3 {
+    border:2px solid ;
+    background-color: palegreen;
+    float: right;
+}
+.box-4 {
+    border:2px solid ;
+    background-color: orangered;
+    float: left;
+}
